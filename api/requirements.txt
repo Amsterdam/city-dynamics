@@ -12,7 +12,7 @@ django-filters==0.2.1
 django-leaflet==0.23.0
 django-rest-framework==0.1.0
 django-test-without-migrations==0.6
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 djangorestframework-gis==0.13
 docker==3.3.0
 docker-compose==1.21.2
